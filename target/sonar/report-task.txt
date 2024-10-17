@@ -2,5 +2,5 @@ projectKey=demo-sonarqube
 serverUrl=http://localhost:9000
 serverVersion=10.7.0.96327
 dashboardUrl=http://localhost:9000/dashboard?id=demo-sonarqube
-ceTaskId=fa1b3404-9eb4-4e59-a5c0-0d41dd307695
-ceTaskUrl=http://localhost:9000/api/ce/task?id=fa1b3404-9eb4-4e59-a5c0-0d41dd307695
+ceTaskId=35f7e432-34b4-463c-879c-4953451b7684
+ceTaskUrl=http://localhost:9000/api/ce/task?id=35f7e432-34b4-463c-879c-4953451b7684
